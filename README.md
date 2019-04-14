@@ -1,6 +1,6 @@
 # Houdini_study
 
-## FILE LIST
+## PROJECT LIST
 
 - **001_crowd**
 
